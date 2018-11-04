@@ -1,25 +1,25 @@
-title: 王小俊
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 魏小飞
+subtitle: 小站
+description: 欢迎来到我的小站~
 # 头像里面的标题
-avatarTitle: Grimxiaojun
+avatarTitle: 小飞
 # 头像里面的描述
-avatarDesc: 将成为优秀程序员的我
-url: "http://grimxiaojun.github.io"
+avatarDesc: 记录我的成长
+url: "http://smile5211.github.io"
 
 comment:
     # disqus: leopard
-    duoshuo: grimxiaojun
+    duoshuo: 小飞
 
 # Social
 social:
     weibo: ----
-    github: grimxiaojun
+    github: smile5211
     # twitter: 
-    mail: swdwangjie@outlook.com
+    mail: 
 
 ga:
-    id: UA-96239281-2
+    id: 
     host: auto
 
 
