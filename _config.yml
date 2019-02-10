@@ -18,6 +18,11 @@ social:
     # twitter: 
     mail: 
 
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+baidu:
+    id: 81ce7c09a1a239ef0077bf6d98dafea4
+
 ga:
     id: 
     host: auto
